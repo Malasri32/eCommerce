@@ -1,0 +1,24 @@
+.dressbox {
+    padding: 2px 4px;
+    width: 250px;
+    height: auto;
+    background-color: aqua;
+    background-color: azure;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.imagebox {
+    border-radius: 20px;
+    margin: 12px;
+    width: 225px;
+    height: 190px;
+}
+
+.flex {
+    display: flex;
+}
+
+.fa fa-shopping-cart {
+    align: right;
+}
